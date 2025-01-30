@@ -23,5 +23,5 @@ React, Node.js, 11ty, Nunjucks, Html, SASS, JavaScript, Decap CMS, Netlify
 
 
 ### Website Design
-![Website Design]()
+![Website Design](https://github.com/StewedDownSteve/BeautyMarks-Public/blob/main/BeautyMarksPDX-website-design.png)
 
