@@ -1,7 +1,7 @@
 # BeautyMarks-Public
 BeautyMarks PDX is a local Cosmetic Tattoo business. I'm making them their fist website for their new location with a blog.
 
-![BeautyMarks Demo](https://beautymarkspdx.netlify.app/)
+[BeautyMarks Demo](https://beautymarkspdx.netlify.app/)
 
 ## Feb 2025
 Currently optimizing svgs,imgs, and working with the client to secure their new domain. 
