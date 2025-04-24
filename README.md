@@ -1,10 +1,11 @@
 # BeautyMarks-Public
 BeautyMarks PDX is a local Cosmetic Tattoo business. I'm making them their fist website for their new location with a blog.
 
-[BeautyMarks Demo](https://beautymarkspdx.netlify.app/)
+[BeautyMarks LIVE!](https://beautymarkspdx.com/)
 
-## Feb 2025
-Currently optimizing svgs,imgs, and working with the client to secure their new domain. 
+
+## APRIL ITS UP!
+Still have a few tweaks to do to get the site to a full 100 performance score, but shouldnt be long. Check out the site and give her your business! 
 
 ## Tools Used:
 React, Node.js, 11ty, Nunjucks, Html, SASS, JavaScript, Decap CMS, Netlify
